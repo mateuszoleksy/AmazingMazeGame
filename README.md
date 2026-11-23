@@ -25,7 +25,7 @@ Amazing Maze Game is a Unity 3D arcade maze project where the player controls a 
 - Scenes: `amazing_maze/Assets/Scenes/`
 
 ## Requirements
-- Unity Editor `2020.3.42f1` (from `ProjectSettings/ProjectVersion.txt`)
+- Unity Editor `2020.3.42f1` (from `amazing_maze/ProjectSettings/ProjectVersion.txt`)
 
 ## Getting Started
 1. Open Unity Hub.
